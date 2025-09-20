@@ -8,7 +8,7 @@
 I'm currently a Computer Science student at the University of A Coruña, specializing in Technology and Information Systems, 
 focusing on cibersecurity, web development, and software engineering.
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
