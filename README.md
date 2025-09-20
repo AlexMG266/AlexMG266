@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFD700&center=true&width=800&lines=Welcome+to+My+GitHub+Profile!" alt="Welcome Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFD700&center=true&width=800&height=60&lines=Welcome+to+My+GitHub+Profile!" alt="Welcome Banner" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 I'm currently a Computer Science student at the University of A Coruña, specializing in Technology and Information Systems, 
 focusing on cibersecurity, web development, and software engineering.
 
-### 🛠️ Languages 
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
